@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/selector_border"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="注册"
+        android:textColor="@color/button_dark_text" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/selector_border"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="登陆"
+        android:textColor="@color/button_dark_text" />
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/selector_round"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="注册"
+        android:textColor="@color/button_dark_text" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/selector_round"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="登陆"
+        android:textColor="@color/button_dark_text" />
+
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/selector_round_btn"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="注册"
+        android:textColor="@color/button_dark_text_btn" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/selector_round_btn"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="登陆"
+        android:textColor="@color/button_dark_text_btn" />
+
+</LinearLayout>
